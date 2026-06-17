@@ -1,0 +1,3 @@
+[submodule "rdf-toolbag"]
+	path = rdf-toolbag
+	url = git@github.com:3starblaze/rdf-toolbag.git
